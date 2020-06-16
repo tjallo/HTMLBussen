@@ -1,0 +1,38 @@
+/* BUTTON */
+a {
+    text-decoration: none;
+}
+ul#redbutton li.newbutton {
+    float: under;
+    background-color: #0f0;
+    border:1px solid #000;
+    background: url("../images/blank_button.png") no-repeat;
+    width: 140px;
+    color: #FFFFFF;
+    font-weight:bold;
+    text-decoration: none;
+    text-transform:uppercase;
+    text-align:center;
+    font-size:12px;
+    line-height:30px;
+    align-self: center;
+
+}
+ul#redbutton li.newbutton:hover {
+    background: url("../images/blank_button_hover.png") no-repeat;
+    width: 140px;
+    color: #FFFFFF;
+    font-weight:bold;
+    text-decoration: none;
+    text-transform:uppercase;
+    text-align:center;
+    font-size:12px;
+    line-height:30px;
+}
+/* BUTTON END*/
+
+.redbutton {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
